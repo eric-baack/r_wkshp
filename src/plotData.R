@@ -1,5 +1,4 @@
-#comment
-# another comment
+#Clean version after failed merge.  
 whales <- bbmroData
 setwd("c:/Users/baacer01/r_wkshp/results")
 pdf(file = 'firstHistogram.pdf')
